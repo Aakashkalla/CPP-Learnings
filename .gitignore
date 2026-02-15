@@ -1,0 +1,33 @@
+# executables
+*.exe
+*.out
+*.app
+
+# object files
+*.o
+*.obj
+
+# libraries
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+
+# build folders
+build/
+bin/
+Debug/
+Release/
+
+# cmake
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+compile_commands.json
+
+# vscode
+.vscode/
+
+# other
+*.log
